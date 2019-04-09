@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94ad6544-e389-47bb-865d-c1273e27a0e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_0_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_compatible_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_starter_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-api/dubbo-sentinel-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-api/src/main/java/net/yiyutao/dubbo/sentinel/api/IHelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-consumer/dubbo-sentinel-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/java/net/yiyutao/dubbo/sentinel/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-consumer/src/test/java/net.yiyutao.dubbo.sentinel/HelloServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-provider/dubbo-sentinel-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-provider/src/main/java/net/yiyutao/dubbo/sentinel/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-provider/src/main/java/net/yiyutao/dubbo/sentinel/service/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-sentinel-provider/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-sentinel-provider/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-sentinel-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-sentinel-api/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-767214981">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="2" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="7" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="6" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="3" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="6" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="439" />
+          <entry key="properties" value="56" />
+          <entry key="xml" value="226" />
+          <entry key="yml" value="79" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="439" />
+          <entry key="Properties" value="56" />
+          <entry key="XML" value="226" />
+          <entry key="YAML" value="79" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dubbo-sentinel-consumer/src/test/java/net.yiyutao.dubbo.sentinel/HelloServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="49" column="25" selection-start-line="45" selection-start-column="12" selection-end-line="49" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-sentinel-provider/src/main/java/net/yiyutao/dubbo/sentinel/service/HelloServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-sentinel-provider/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-sentinel-consumer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-sentinel-provider/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="21" selection-start-line="22" selection-start-column="7" selection-end-line="36" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://MAVEN/net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>MAVEN</ID>
+              <OriginalElement>net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT</OriginalElement>
+              <nodes>
+                <node x="583.397619047619" y="474.0">net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT</node>
+                <node x="796.1666666666667" y="395.0">net.yiyutao:dubbo-sentinel-api:jar:1.0-SNAPSHOT</node>
+                <node x="577.1666666666667" y="395.0">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1</node>
+                <node x="554.1666666666667" y="316.0">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1</node>
+                <node x="517.6666666666667" y="237.0">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure-compatible:jar:2.7.1</node>
+                <node x="226.89761904761903" y="395.0">org.apache.dubbo:dubbo:jar:2.7.1</node>
+                <node x="324.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE</node>
+                <node x="301.89761904761906" y="237.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-aop:jar:5.1.3.RELEASE</node>
+                <node x="337.39761904761906" y="158.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-beans:jar:5.1.3.RELEASE</node>
+                <node x="336.1761904761905" y="79.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE</node>
+                <node x="343.1761904761905" y="0.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE/org.springframework:spring-jcl:jar:5.1.3.RELEASE</node>
+                <node x="172.39761904761903" y="158.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-expression:jar:5.1.3.RELEASE</node>
+                <node x="219.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/org.javassist:javassist:jar:3.20.0-GA</node>
+                <node x="0.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/io.netty:netty-all:jar:4.1.31.Final</node>
+                <node x="468.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/com.google.code.gson:gson:jar:2.8.5</node>
+                <node x="103.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/org.yaml:snakeyaml:jar:1.23</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/org.yaml:snakeyaml:jar:1.23">
+                  <point x="-14.399999999999977" y="-14.5" />
+                  <point x="248.49761904761905" y="365.0" />
+                  <point x="151.0" y="365.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/com.google.code.gson:gson:jar:2.8.5">
+                  <point x="28.80000000000001" y="-14.5" />
+                  <point x="291.697619047619" y="375.0" />
+                  <point x="499.5" y="375.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-expression:jar:5.1.3.RELEASE">
+                  <point x="-46.5" y="-14.5" />
+                  <point x="339.5" y="291.0" />
+                  <point x="244.39761904761903" y="291.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-aop:jar:5.1.3.RELEASE">
+                  <point x="-15.5" y="-14.5" />
+                  <point x="370.5" y="291.0" />
+                  <point x="351.89761904761906" y="291.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/io.netty:netty-all:jar:4.1.31.Final">
+                  <point x="-28.80000000000001" y="-14.5" />
+                  <point x="234.09761904761902" y="375.0" />
+                  <point x="41.5" y="375.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT" target="net.yiyutao:dubbo-sentinel-api:jar:1.0-SNAPSHOT">
+                  <point x="61.00000000000006" y="-14.5" />
+                  <point x="735.897619047619" y="449.0" />
+                  <point x="871.1666666666667" y="449.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1" target="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1" target="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure-compatible:jar:2.7.1">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE">
+                  <point x="46.5" y="-14.5" />
+                  <point x="432.5" y="291.0" />
+                  <point x="493.64761904761906" y="291.0" />
+                  <point x="493.64761904761906" y="138.0" />
+                  <point x="427.1761904761905" y="138.0" />
+                  <point x="39.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE/org.springframework:spring-jcl:jar:5.1.3.RELEASE">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-aop:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE">
+                  <point x="-25.0" y="-14.5" />
+                  <point x="326.89761904761906" y="138.0" />
+                  <point x="375.1761904761905" y="138.0" />
+                  <point x="-13.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-beans:jar:5.1.3.RELEASE">
+                  <point x="15.5" y="-14.5" />
+                  <point x="401.5" y="291.0" />
+                  <point x="422.89761904761906" y="291.0" />
+                  <point x="28.5" y="14.5" />
+                </edge>
+                <edge source="net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT" target="org.apache.dubbo:dubbo:jar:2.7.1">
+                  <point x="-60.99999999999994" y="-14.5" />
+                  <point x="613.8976190476191" y="449.0" />
+                  <point x="262.89761904761906" y="449.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-aop:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-beans:jar:5.1.3.RELEASE">
+                  <point x="25.0" y="-14.5" />
+                  <point x="376.89761904761906" y="212.0" />
+                  <point x="365.89761904761906" y="212.0" />
+                  <point x="-28.5" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-expression:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE">
+                  <point x="0.0" y="-14.5" />
+                  <point x="244.39761904761903" y="128.0" />
+                  <point x="349.1761904761905" y="128.0" />
+                  <point x="-39.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-beans:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE">
+                  <point x="0.0" y="-14.5" />
+                  <point x="394.39761904761906" y="138.0" />
+                  <point x="401.1761904761905" y="138.0" />
+                  <point x="13.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE">
+                  <point x="14.399999999999977" y="-14.5" />
+                  <point x="277.29761904761904" y="365.0" />
+                  <point x="386.0" y="365.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT" target="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1">
+                  <point x="5.6843418860808015E-14" y="-14.5" />
+                  <point x="674.8976190476191" y="449.0" />
+                  <point x="676.6666666666667" y="449.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/org.javassist:javassist:jar:3.20.0-GA">
+                  <point x="0.0" y="-14.5" />
+                  <point x="262.89761904761906" y="375.0" />
+                  <point x="261.5" y="375.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="237.0" y="162.0" />
+              <SelectedNodes>
+                <node>org.apache.dubbo:dubbo:jar:2.7.1/org.yaml:snakeyaml:jar:1.23</node>
+                <node>net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT</node>
+              </SelectedNodes>
+              <Categories />
+              <VISIBILITY>All</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dubbo-sentinel-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-api/src/main/java/net/yiyutao/dubbo/sentinel/api/IHelloService.java" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-provider/src/main/java/net/yiyutao/dubbo/sentinel/Application.java" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/java/net/yiyutao/dubbo/sentinel/Application.java" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-provider/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-provider/src/main/java/net/yiyutao/dubbo/sentinel/service/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-consumer/src/test/java/net.yiyutao.dubbo.sentinel/HelloServiceTest.java" />
+        <option value="$PROJECT_DIR$/dubbo-sentinel-provider/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/Downloads/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="net.yiyutao.dubbo.sentinel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-sentinel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-sentinel-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-sentinel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554826350281" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.yiyutao.dubbo.sentinel" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dubbo-sentinel-provider/src/main/resources" />
+      <recent name="$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/resources" />
+      <recent name="$PROJECT_DIR$/dubbo-sentinel-api" />
+      <recent name="$PROJECT_DIR$/dubbo-sentinel-consumer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HelloServiceTest.hello">
+    <configuration name="HelloServiceTest.hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dubbo-sentinel-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.yiyutao.dubbo.sentinel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.yiyutao.dubbo.sentinel" />
+      <option name="MAIN_CLASS_NAME" value="net.yiyutao.dubbo.sentinel.HelloServiceTest" />
+      <option name="METHOD_NAME" value="hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dubbo-sentinel-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.yiyutao.dubbo.sentinel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.yiyutao.dubbo.sentinel.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="JUnit.HelloServiceTest.hello" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.HelloServiceTest.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94ad6544-e389-47bb-865d-c1273e27a0e4" name="Default Changelist" comment="" />
+      <created>1554819051266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554819051266</updated>
+      <workItem from="1554819052886" duration="5353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 04m 34s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 10m 30s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 14m 56s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 16m 02s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 19m 04s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 24m 23s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 25m 35s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 27m 09s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 32m 55s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloServiceTest_hello - 2019.04.09 at 23h 33m 15s.xml">
+      <configuration name="HelloServiceTest.hello" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5353000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33279485" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50547945" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.48356164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-api/src/main/java/net/yiyutao/dubbo/sentinel/api/IHelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="583.397619047619" y="474.0">net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT</node>
+            <node x="796.1666666666667" y="395.0">net.yiyutao:dubbo-sentinel-api:jar:1.0-SNAPSHOT</node>
+            <node x="577.1666666666667" y="395.0">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1</node>
+            <node x="554.1666666666667" y="316.0">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1</node>
+            <node x="517.6666666666667" y="237.0">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure-compatible:jar:2.7.1</node>
+            <node x="226.89761904761903" y="395.0">org.apache.dubbo:dubbo:jar:2.7.1</node>
+            <node x="324.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE</node>
+            <node x="301.89761904761906" y="237.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-aop:jar:5.1.3.RELEASE</node>
+            <node x="337.39761904761906" y="158.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-beans:jar:5.1.3.RELEASE</node>
+            <node x="336.1761904761905" y="79.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE</node>
+            <node x="343.1761904761905" y="0.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE/org.springframework:spring-jcl:jar:5.1.3.RELEASE</node>
+            <node x="172.39761904761903" y="158.0">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-expression:jar:5.1.3.RELEASE</node>
+            <node x="219.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/org.javassist:javassist:jar:3.20.0-GA</node>
+            <node x="0.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/io.netty:netty-all:jar:4.1.31.Final</node>
+            <node x="468.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="103.0" y="316.0">org.apache.dubbo:dubbo:jar:2.7.1/org.yaml:snakeyaml:jar:1.23</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/org.yaml:snakeyaml:jar:1.23">
+              <point x="-14.399999999999977" y="-14.5" />
+              <point x="248.49761904761905" y="365.0" />
+              <point x="151.0" y="365.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/com.google.code.gson:gson:jar:2.8.5">
+              <point x="28.80000000000001" y="-14.5" />
+              <point x="291.697619047619" y="375.0" />
+              <point x="499.5" y="375.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-expression:jar:5.1.3.RELEASE">
+              <point x="-46.5" y="-14.5" />
+              <point x="339.5" y="291.0" />
+              <point x="244.39761904761903" y="291.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-aop:jar:5.1.3.RELEASE">
+              <point x="-15.5" y="-14.5" />
+              <point x="370.5" y="291.0" />
+              <point x="351.89761904761906" y="291.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/io.netty:netty-all:jar:4.1.31.Final">
+              <point x="-28.80000000000001" y="-14.5" />
+              <point x="234.09761904761902" y="375.0" />
+              <point x="41.5" y="375.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT" target="net.yiyutao:dubbo-sentinel-api:jar:1.0-SNAPSHOT">
+              <point x="61.00000000000006" y="-14.5" />
+              <point x="735.897619047619" y="449.0" />
+              <point x="871.1666666666667" y="449.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1" target="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1" target="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure-compatible:jar:2.7.1">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE">
+              <point x="46.5" y="-14.5" />
+              <point x="432.5" y="291.0" />
+              <point x="493.64761904761906" y="291.0" />
+              <point x="493.64761904761906" y="138.0" />
+              <point x="427.1761904761905" y="138.0" />
+              <point x="39.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE/org.springframework:spring-jcl:jar:5.1.3.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-aop:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE">
+              <point x="-25.0" y="-14.5" />
+              <point x="326.89761904761906" y="138.0" />
+              <point x="375.1761904761905" y="138.0" />
+              <point x="-13.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-beans:jar:5.1.3.RELEASE">
+              <point x="15.5" y="-14.5" />
+              <point x="401.5" y="291.0" />
+              <point x="422.89761904761906" y="291.0" />
+              <point x="28.5" y="14.5" />
+            </edge>
+            <edge source="net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT" target="org.apache.dubbo:dubbo:jar:2.7.1">
+              <point x="-60.99999999999994" y="-14.5" />
+              <point x="613.8976190476191" y="449.0" />
+              <point x="262.89761904761906" y="449.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-aop:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-beans:jar:5.1.3.RELEASE">
+              <point x="25.0" y="-14.5" />
+              <point x="376.89761904761906" y="212.0" />
+              <point x="365.89761904761906" y="212.0" />
+              <point x="-28.5" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-expression:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="244.39761904761903" y="128.0" />
+              <point x="349.1761904761905" y="128.0" />
+              <point x="-39.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-beans:jar:5.1.3.RELEASE" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="394.39761904761906" y="138.0" />
+              <point x="401.1761904761905" y="138.0" />
+              <point x="13.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE">
+              <point x="14.399999999999977" y="-14.5" />
+              <point x="277.29761904761904" y="365.0" />
+              <point x="386.0" y="365.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT" target="org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1">
+              <point x="5.6843418860808015E-14" y="-14.5" />
+              <point x="674.8976190476191" y="449.0" />
+              <point x="676.6666666666667" y="449.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.dubbo:dubbo:jar:2.7.1" target="org.apache.dubbo:dubbo:jar:2.7.1/org.javassist:javassist:jar:3.20.0-GA">
+              <point x="0.0" y="-14.5" />
+              <point x="262.89761904761906" y="375.0" />
+              <point x="261.5" y="375.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="237.0" y="162.0" />
+          <SelectedNodes>
+            <node>org.apache.dubbo:dubbo:jar:2.7.1/org.yaml:snakeyaml:jar:1.23</node>
+            <node>net.yiyutao:dubbo-sentinel-provider:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/java/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-provider/src/main/java/net/yiyutao/dubbo/sentinel/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/java/net/yiyutao/dubbo/sentinel/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/net.yiyutao:dubbo-sentinel-consumer:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>net.yiyutao:dubbo-sentinel-consumer:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">net.yiyutao:dubbo-sentinel-consumer:1.0-SNAPSHOT</node>
+            <node x="" y="">net.yiyutao:dubbo-sentinel-api:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.1.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.1.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.1.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.1.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.1/org.apache.logging.log4j:log4j-api:jar:2.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.1.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.springframework:spring-core:jar:5.1.3.RELEASE/org.springframework:spring-jcl:jar:5.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.1.RELEASE/org.yaml:snakeyaml:jar:1.23</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.1/org.apache.dubbo:dubbo-spring-boot-autoconfigure-compatible:jar:2.7.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-test:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.assertj:assertj-core:jar:3.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.mockito:mockito-core:jar:2.23.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.mockito:mockito-core:jar:2.23.4/net.bytebuddy:byte-buddy:jar:1.9.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.mockito:mockito-core:jar:2.23.4/net.bytebuddy:byte-buddy-agent:jar:1.9.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.mockito:mockito-core:jar:2.23.4/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.springframework:spring-test:jar:5.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.1.RELEASE/org.xmlunit:xmlunit-core:jar:2.6.2</node>
+            <node x="" y="">org.apache.dubbo:dubbo:jar:2.7.1</node>
+            <node x="" y="">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE</node>
+            <node x="" y="">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-aop:jar:5.1.3.RELEASE</node>
+            <node x="" y="">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-beans:jar:5.1.3.RELEASE</node>
+            <node x="" y="">org.apache.dubbo:dubbo:jar:2.7.1/org.springframework:spring-context:jar:5.1.3.RELEASE/org.springframework:spring-expression:jar:5.1.3.RELEASE</node>
+            <node x="" y="">org.apache.dubbo:dubbo:jar:2.7.1/org.javassist:javassist:jar:3.20.0-GA</node>
+            <node x="" y="">org.apache.dubbo:dubbo:jar:2.7.1/io.netty:netty-all:jar:4.1.31.Final</node>
+            <node x="" y="">org.apache.dubbo:dubbo:jar:2.7.1/com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/org.apache.zookeeper:zookeeper:jar:3.4.13</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/org.apache.zookeeper:zookeeper:jar:3.4.13/log4j:log4j:jar:1.2.16</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/org.apache.zookeeper:zookeeper:jar:3.4.13/jline:jline:jar:0.9.94</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/org.apache.zookeeper:zookeeper:jar:3.4.13/org.apache.yetus:audience-annotations:jar:0.5.0</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/com.google.guava:guava:jar:27.0.1-jre</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/com.google.guava:guava:jar:27.0.1-jre/com.google.guava:failureaccess:jar:1.0.1</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/com.google.guava:guava:jar:27.0.1-jre/com.google.guava:listenablefuture:jar:9999.0-empty-to-avoid-conflict-with-guava</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/com.google.guava:guava:jar:27.0.1-jre/com.google.code.findbugs:jsr305:jar:3.0.2</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/com.google.guava:guava:jar:27.0.1-jre/org.checkerframework:checker-qual:jar:2.5.2</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/com.google.guava:guava:jar:27.0.1-jre/com.google.errorprone:error_prone_annotations:jar:2.2.0</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/com.google.guava:guava:jar:27.0.1-jre/com.google.j2objc:j2objc-annotations:jar:1.1</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.2.0/org.apache.curator:curator-client:jar:4.2.0/com.google.guava:guava:jar:27.0.1-jre/org.codehaus.mojo:animal-sniffer-annotations:jar:1.17</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6103344952233969" x="2573.05808148691" y="576.158283891906" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="21" selection-start-line="22" selection-start-column="7" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="49" column="25" selection-start-line="45" selection-start-column="12" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-provider/src/main/java/net/yiyutao/dubbo/sentinel/service/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-provider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-sentinel-consumer/src/test/java/net.yiyutao.dubbo.sentinel/HelloServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
