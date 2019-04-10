@@ -15,8 +15,14 @@ public class HelloServiceTest {
     private IHelloService helloService;
 
     @Test
-    public void hello(){
-        String sayHello = helloService.sayHello("masteryi");
-        System.out.println(sayHello);
+    public void hello() throws InterruptedException {
+        int count = 0;
+        while (true){
+            String sayHello = helloService.sayHello("masteryi");
+            System.out.println(sayHello+System.currentTimeMillis());
+            if(count++%10==0){
+                Thread.sleep(30000);
+            }
+        }
     }
 }

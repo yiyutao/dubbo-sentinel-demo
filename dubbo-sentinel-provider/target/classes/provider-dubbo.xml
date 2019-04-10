@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+     	http://www.springframework.org/schema/beans/spring-beans.xsd
+       	http://code.alibabatech.com/schema/dubbo
+     	http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!--应用配置-->
+    <dubbo:application name="${spring.application.name}"/>
+    <!--注册中心-->
+    <dubbo:registry protocol="zookeeper" address="localhost:2181" check="false"/>
+    <dubbo:protocol name="dubbo" port="20880"/>
+
+    <!--服务配置-->
+    <!--Provider 端尽量多配置 Consumer 端的属性，让 Provider 的实现者一开始就思考 Provider 端的服务特点和服务质量等问题-->
+    <!--每个接口都应定义版本号，为后续不兼容升级提供可能，建议使用两位版本号，因为第三位版本号通常表示兼容升级，只有不兼容时才需要变更服务版本。-->
+    <dubbo:service interface="net.yiyutao.dubbo.sentinel.api.IHelloService" ref="helloServiceImpl" version="1.0.0"/>
+
+
+</beans>
